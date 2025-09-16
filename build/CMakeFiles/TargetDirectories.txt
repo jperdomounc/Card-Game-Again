@@ -1,0 +1,3 @@
+/Users/juanperdomo/development/Blitz-Again/build/CMakeFiles/blitz-again.dir
+/Users/juanperdomo/development/Blitz-Again/build/CMakeFiles/edit_cache.dir
+/Users/juanperdomo/development/Blitz-Again/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/blitz-again.dir/src/main.cpp.o" "CMakeFiles/blitz-again.dir/src/Player.cpp.o" -o blitz-again
